@@ -10,4 +10,4 @@ while guess != secret:
     elif guess > secret:
         print("Too high!")
 
-print("Correct! You guessed the numbers.")
+print("It's right! You guessed the numbers.")
