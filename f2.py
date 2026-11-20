@@ -11,6 +11,6 @@ while guess != secret:
         print("Too high!")
 
 print("It's right! You guessed the numbers.")
-
+print("It's right! You guessed the numbers.")
 
 
