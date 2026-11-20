@@ -25,6 +25,6 @@ while guess != secret:
         print("Too high!")
 
 print("Correct! You guessed the number!.")
-
+print("Correct! You guessed the number!.")
 
 
